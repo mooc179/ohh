@@ -1,4 +1,2 @@
 # Git ½Ì³Ì
-
--feature -A
-nhjh
+-fix¡ª¡ªB
